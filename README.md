@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS , AWS <br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, Azure, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love writing code and interacting with people.
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS , AWS , System Design <br><br>💬 **Ask me about:**  <br>JavaScript, React, Dotnet MVC, Node.js, Azure, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love writing code and interacting with people.
 
 
 ## 🌐 Socials:
